@@ -30,11 +30,6 @@
 
 ---
 
-## 🖼️ Screenshot  
-
-*(Include a relevant screenshot here if possible)*  
-
----
 
 ## ✨ Features  
 
@@ -76,3 +71,53 @@ To set up CouponHive on your local machine, follow these steps:
 ```bash
 git clone https://github.com/yourusername/couponhive.git
 cd couponhive
+
+Install Dependencies
+bash
+Copy
+Edit
+npm install
+3️⃣ Create Environment Variables
+Create a .env.local file in the root directory and add your Firebase credentials:
+
+env
+Copy
+Edit
+VITE_apiKey=your_api_key
+VITE_authDomain=your_auth_domain
+VITE_projectId=your_project_id
+VITE_storageBucket=your_storage_bucket
+VITE_messagingSenderId=your_messaging_sender_id
+VITE_appId=your_app_id
+🚨 Important: Never expose your Firebase credentials in a public repository!
+
+4️⃣ Start the Development Server
+bash
+Copy
+Edit
+npm run dev
+The application will be available at http://localhost:5173/.
+
+🛠 Development
+Running the Development Server
+bash
+Copy
+Edit
+npm run dev
+Building for Production
+bash
+Copy
+Edit
+npm run build
+Linting
+bash
+Copy
+Edit
+npm run lint
+🤝 Contributing
+We welcome contributions! Follow these steps to contribute:
+
+1️⃣ Fork the repository.
+2️⃣ Create a new branch (feature-branch).
+3️⃣ Make your changes and commit them.
+4️⃣ Open a Pull Request.
