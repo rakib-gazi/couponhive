@@ -63,60 +63,66 @@
 
 ---
 
-## 🛠 Installation Guide  
+# 🛠 Installation Guide  
 
-To set up CouponHive on your local machine, follow these steps:  
+To set up **CouponHive** on your local machine, follow these steps:  
 
-### 1️⃣ Clone the Repository  
+---
+
+## 1️⃣ Clone the Repository  
+Run the following commands to clone the repository and navigate into the project folder:  
+
 ```bash
-git clone https://github.com/yourusername/couponhive.git
+git clone https://github.com/yourusername/couponhive.git  
 cd couponhive
 
+---
 
 
-### 2️⃣ Install Dependencies
+## 2️⃣ Install Dependencies
+Install the required packages using npm:
+
 ```bash
 npm install
+
+
 ---
-###3️⃣ Create Environment Variables
+
+
+## 3️⃣ Create Environment Variables
 Create a .env.local file in the root directory and add your Firebase credentials:
 
 ```env
-VITE_apiKey=your_api_key
-VITE_authDomain=your_auth_domain
-VITE_projectId=your_project_id
-VITE_storageBucket=your_storage_bucket
-VITE_messagingSenderId=your_messaging_sender_id
+VITE_apiKey=your_api_key  
+VITE_authDomain=your_auth_domain  
+VITE_projectId=your_project_id  
+VITE_storageBucket=your_storage_bucket  
+VITE_messagingSenderId=your_messaging_sender_id  
 VITE_appId=your_app_id
 
-
 ---
 
 
+## 4️⃣ Start the Development Server
+Run the following command to start the local development server:
 
-4️⃣ Start the Development Server
 ```bash
-
 npm run dev
+
 The application will be available at http://localhost:5173/.
 
-
 ---
 
 
-🛠 Development
-Running the Development Server
+## 🛠 Development
+🚀 Running the Development Server
+
 ```bash
 npm run dev
 
-
 ---
 
+## 📦 Building for Production
 
-Building for Production
 ```bash
 npm run build
-
-
-
----
