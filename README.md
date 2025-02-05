@@ -74,17 +74,6 @@ cd couponhive
 
 
 
-## 🛠 Installation Guide  
-
-To set up CouponHive on your local machine, follow these steps:  
-
-### 1️⃣ Clone the Repository  
-```bash
-git clone https://github.com/yourusername/couponhive.git
-cd couponhive
----
-
-
 ### 2️⃣ Install Dependencies
 ```bash
 npm install
@@ -131,6 +120,3 @@ npm run build
 
 
 ---
-
-
-🔗 **Live Project:** [CouponHive](https://couponhive.netlify.app/)  
