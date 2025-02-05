@@ -73,6 +73,15 @@ git clone https://github.com/yourusername/couponhive.git
 cd couponhive
 
 
+
+## 🛠 Installation Guide  
+
+To set up CouponHive on your local machine, follow these steps:  
+
+### 1️⃣ Clone the Repository  
+```bash
+git clone https://github.com/yourusername/couponhive.git
+cd couponhive
 ---
 
 
