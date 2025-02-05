@@ -71,7 +71,11 @@ To set up CouponHive on your local machine, follow these steps:
 ```bash
 git clone https://github.com/yourusername/couponhive.git
 cd couponhive
+
+
 ---
+
+
 ### 2️⃣ Install Dependencies
 ```bash
 npm install
@@ -102,13 +106,13 @@ npm run dev
 Building for Production
 ```bash
 npm run build
+
+
+
 ---
-Linting
-```bash
-npm run lint
----
-🤝 Contributing
-We welcome contributions! Follow these steps to contribute:
+
+
+🔗 **Live Project:** [CouponHive](https://couponhive.netlify.app/)  
 
 1️⃣ Fork the repository.
 2️⃣ Create a new branch (feature-branch).
