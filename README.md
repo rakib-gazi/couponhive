@@ -90,19 +90,31 @@ VITE_projectId=your_project_id
 VITE_storageBucket=your_storage_bucket
 VITE_messagingSenderId=your_messaging_sender_id
 VITE_appId=your_app_id
+
+
 ---
+
+
 
 4️⃣ Start the Development Server
 ```bash
 
 npm run dev
 The application will be available at http://localhost:5173/.
+
+
 ---
+
+
 🛠 Development
 Running the Development Server
 ```bash
 npm run dev
+
+
 ---
+
+
 Building for Production
 ```bash
 npm run build
@@ -113,8 +125,3 @@ npm run build
 
 
 🔗 **Live Project:** [CouponHive](https://couponhive.netlify.app/)  
-
-1️⃣ Fork the repository.
-2️⃣ Create a new branch (feature-branch).
-3️⃣ Make your changes and commit them.
-4️⃣ Open a Pull Request.
