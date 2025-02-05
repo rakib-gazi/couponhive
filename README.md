@@ -8,20 +8,6 @@
 
 ---
 
-## 📌 Table of Contents  
-
-- [Project Overview](#project-overview)  
-- [Live Project Link](#live-project-link)  
-- [Technologies Used](#technologies-used)  
-- [Screenshot](#screenshot)  
-- [Features](#features)  
-- [Dependencies](#dependencies)  
-- [Installation Guide](#installation-guide)  
-- [Development](#development)  
-- [Contributing](#contributing)  
-- [License](#license)  
-
----
 
 ## 🚀 Project Overview  
 
