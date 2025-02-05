@@ -1,0 +1,67 @@
+{
+  "status": true,
+  "data": {
+    "brands": [
+      {
+        "id": "01",
+        "brandName": "Daraz",
+        "logo": "https://i.ibb.co.com/cxt7cwT/Daraz.png"
+      },
+      {
+        "id": "02",
+        "brandName": "ShareTrip",
+        "logo": "https://i.ibb.co.com/K9QVnZ8/sharetrip.jpg"
+      },
+      {
+        "id": "03",
+        "brandName": "Gozayaan",
+        "logo": "https://i.ibb.co.com/hcHbhXS/gozayaan.jpg"
+      },
+      {
+        "id": "04",
+        "brandName": "Bata",
+        "logo": "https://i.ibb.co.com/hs049TN/bata.png"
+      },
+      {
+        "id": "05",
+        "brandName": "Apex",
+        "logo": "https://i.ibb.co.com/1Kcf52b/apex.png"
+      },
+      {
+        "id": "06",
+        "brandName": "Shwapno",
+        "logo": "https://i.ibb.co.com/dJjFyYL/swapno.png"
+      },
+      {
+        "id": "07",
+        "brandName": "Meena Bazar",
+        "logo": "https://i.ibb.co.com/GRZhSJX/meena.webp"
+      },
+      {
+        "id": "08",
+        "brandName": "Pathao",
+        "logo": "https://i.ibb.co.com/ZGGJ97v/pathao.jpg"
+      },
+      {
+        "id": "09",
+        "brandName": "Foodpanda",
+        "logo": "https://i.ibb.co.com/FgDrB8R/foodpanda.png"
+      },
+      {
+        "id": "10",
+        "brandName": "Pickaboo",
+        "logo": "https://i.ibb.co.com/PNNHVXL/pickaboo.webp"
+      },
+      {
+        "id": "11",
+        "brandName": "Chaldal",
+        "logo": "https://i.ibb.co.com/JQmhhNW/chaldal.jpg"
+      },
+      {
+        "id": "12",
+        "brandName": "AjkerDeal",
+        "logo": "https://i.ibb.co.com/7N9xzVj/ajkerdeal.png"
+      }
+    ]
+  }
+}

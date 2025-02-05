@@ -1,0 +1,396 @@
+{
+  "status": true,
+  "data": {
+    "brands": [
+      {
+        "_id": "01",
+        "brand_name": "Daraz",
+        "rating": 4.5,
+        "description": "Daraz is the largest online shopping platform offering a variety of products, from fashion to electronics.",
+        "brand_logo": "https://i.ibb.co.com/cxt7cwT/Daraz.png",
+        "coupons": [
+          {
+            "coupon_code": "DARAZ20",
+            "description": "20% off on your first purchase.",
+            "expiry_date": "2024-12-31",
+            "condition": "Minimum purchase of Tk 1,000 required.",
+            "coupon_type": "Discount"
+          },
+          {
+            "coupon_code": "DARAZFREE",
+            "description": "Free shipping on all orders above Tk 2,000.",
+            "expiry_date": "2024-12-15",
+            "condition": "Valid for online orders only.",
+            "coupon_type": "Shipping"
+          },
+          {
+            "coupon_code": "DARAZ10",
+            "description": "10% off on selected electronics.",
+            "expiry_date": "2024-11-30",
+            "condition": "Applicable on select products only.",
+            "coupon_type": "Discount"
+          },
+          {
+            "coupon_code": "WINNER30",
+            "description": "Flat 30% off on your next purchase.",
+            "expiry_date": "2024-12-20",
+            "condition": "For new users only.",
+            "coupon_type": "Discount"
+          }
+        ],
+        "shop_Link": "https://www.daraz.com.bd/",
+        "category": "E-commerce",
+        "isSaleOn": true
+      },
+      {
+        "_id": "02",
+        "brand_name": "ShareTrip",
+        "rating": 4.4,
+        "description": "ShareTrip is a travel booking platform for flights, hotels, and holiday packages.",
+        "brand_logo": "https://i.ibb.co.com/K9QVnZ8/sharetrip.jpg",
+        "coupons": [
+          {
+            "coupon_code": "TRIP15",
+            "description": "15% off on all flight bookings.",
+            "expiry_date": "2024-12-31",
+            "condition": "Minimum booking of Tk 5,000 required.",
+            "coupon_type": "Discount"
+          },
+          {
+            "coupon_code": "HOLIDAY20",
+            "description": "20% off on holiday packages.",
+            "expiry_date": "2024-12-15",
+            "condition": "No minimum booking required.",
+            "coupon_type": "Discount"
+          },
+          {
+            "coupon_code": "FREECANCEL",
+            "description": "Free cancellation on all bookings.",
+            "expiry_date": "2024-12-01",
+            "condition": "Available on all bookings made through the app.",
+            "coupon_type": "Shipping"
+          }
+        ],
+        "shop_Link": "https://sharetrip.net/",
+        "category": "Travel",
+        "isSaleOn": true
+      },
+      {
+        "_id": "03",
+        "brand_name": "Gozayaan",
+        "rating": 4.3,
+        "description": "Gozayaan is an online platform for booking flights, hotels, and vacation packages.",
+        "brand_logo": "https://i.ibb.co.com/hcHbhXS/gozayaan.jpg",
+        "coupons": [
+          {
+            "coupon_code": "HOLIDAY25",
+            "description": "25% off on select holiday packages.",
+            "expiry_date": "2024-12-10",
+            "condition": "Valid for specific destinations.",
+            "coupon_type": "Discount"
+          },
+          {
+            "coupon_code": "FREESHIP",
+            "description": "Free shipping on selected hotel bookings.",
+            "expiry_date": "2024-12-20",
+            "condition": "Available on all bookings over Tk 10,000.",
+            "coupon_type": "Shipping"
+          }
+        ],
+        "shop_Link": "https://gozayaan.com/",
+        "category": "Travel",
+        "isSaleOn": false
+      },
+      {
+        "_id": "04",
+        "brand_name": "Bata",
+        "rating": 4.2,
+        "description": "Bata offers high-quality shoes for men, women, and children.",
+        "brand_logo": "https://i.ibb.co.com/hs049TN/bata.png",
+        "coupons": [
+          {
+            "coupon_code": "BATA10",
+            "description": "10% off on kids' footwear.",
+            "expiry_date": "2024-11-30",
+            "condition": "Valid for online orders only.",
+            "coupon_type": "Discount"
+          },
+          {
+            "coupon_code": "BATAFREE",
+            "description": "Free shipping on all orders above Tk 2,000.",
+            "expiry_date": "2024-12-10",
+            "condition": "For online orders only.",
+            "coupon_type": "Shipping"
+          },
+          {
+            "coupon_code": "BATA50",
+            "description": "Flat Tk 50 off on orders above Tk 500.",
+            "expiry_date": "2024-11-30",
+            "condition": "Valid on all footwear purchases.",
+            "coupon_type": "Discount"
+          }
+        ],
+        "shop_Link": "https://www.batabd.com/",
+        "category": "Footwear",
+        "isSaleOn": true
+      },
+      {
+        "_id": "05",
+        "brand_name": "Apex",
+        "rating": 4.3,
+        "description": "Apex offers premium footwear for men, women, and children with a wide variety of styles.",
+        "brand_logo": "https://i.ibb.co.com/1Kcf52b/apex.png",
+        "coupons": [
+          {
+            "coupon_code": "APEX10",
+            "description": "10% off on selected items during sale.",
+            "expiry_date": "2024-11-30",
+            "condition": "Valid during the sale period only.",
+            "coupon_type": "Discount"
+          }
+        ],
+        "shop_Link": "https://apex4u.com/",
+        "category": "Footwear",
+        "isSaleOn": false
+      },
+      {
+        "_id": "06",
+        "brand_name": "Shwapno",
+        "rating": 4.2,
+        "description": "Shwapno is Bangladesh’s leading supermarket chain offering fresh groceries and household items.",
+        "brand_logo": "https://i.ibb.co.com/dJjFyYL/swapno.png",
+        "coupons": [
+          {
+            "coupon_code": "FRESH5",
+            "description": "5% off on organic products.",
+            "expiry_date": "2024-12-31",
+            "condition": "Valid for purchases above Tk 500.",
+            "coupon_type": "Discount"
+          },
+          {
+            "coupon_code": "HOLIDAY25",
+            "description": "Flat 25% off on holiday grocery packages.",
+            "expiry_date": "2024-12-25",
+            "condition": "Applicable to specific holiday packages only.",
+            "coupon_type": "Sale"
+          }
+        ],
+        "shop_Link": "https://www.shwapno.com/",
+        "category": "Supermarket",
+        "isSaleOn": false
+      },
+      {
+        "_id": "07",
+        "brand_name": "Meena Bazar",
+        "rating": 4.0,
+        "description": "Meena Bazar is a popular retail chain providing fresh groceries and lifestyle products.",
+        "brand_logo": "https://i.ibb.co.com/GRZhSJX/meena.webp",
+        "coupons": [
+          {
+            "coupon_code": "MEENA5",
+            "description": "5% cashback on all purchases.",
+            "expiry_date": "2024-12-31",
+            "condition": "Valid for purchases above Tk 500.",
+            "coupon_type": "Cashback"
+          },
+          {
+            "coupon_code": "MEENAFREE",
+            "description": "Free home delivery on weekends.",
+            "expiry_date": "2024-12-25",
+            "condition": "Minimum spend of Tk 2,000.",
+            "coupon_type": "Shipping"
+          },
+          {
+            "coupon_code": "MEENA10",
+            "description": "10% off on select lifestyle products.",
+            "expiry_date": "2024-11-30",
+            "condition": "Valid on select products only.",
+            "coupon_type": "Discount"
+          },
+          {
+            "coupon_code": "MEENAFRESH",
+            "description": "15% off on fresh groceries.",
+            "expiry_date": "2024-12-15",
+            "condition": "Applicable on fresh produce only.",
+            "coupon_type": "Discount"
+          }
+        ],
+        "shop_Link": "https://meenabazaronline.com/",
+        "category": "Supermarket",
+        "isSaleOn": true
+      },
+      {
+        "_id": "08",
+        "brand_name": "Pathao",
+        "rating": 4.5,
+        "description": "Pathao provides fast delivery services, food delivery, and ride-sharing solutions.",
+        "brand_logo": "https://i.ibb.co.com/ZGGJ97v/pathao.jpg",
+        "coupons": [
+          {
+            "coupon_code": "PATHAO20",
+            "description": "20% off on your first food delivery.",
+            "expiry_date": "2024-12-31",
+            "condition": "Valid for new users only.",
+            "coupon_type": "Discount"
+          },
+          {
+            "coupon_code": "RIDE100",
+            "description": "Tk 100 off on your first ride.",
+            "expiry_date": "2024-12-15",
+            "condition": "For new customers only.",
+            "coupon_type": "Discount"
+          },
+          {
+            "coupon_code": "RIDE50",
+            "description": "Flat Tk 50 off on your ride fare.",
+            "expiry_date": "2024-11-30",
+            "condition": "For all rides above Tk 100.",
+            "coupon_type": "Discount"
+          }
+        ],
+        "shop_Link": "https://pathao.com/",
+        "category": "Logistics & Delivery",
+        "isSaleOn": false
+      },
+      {
+        "_id": "09",
+        "brand_name": "Foodpanda",
+        "rating": 4.8,
+        "description": "Foodpanda is a leading food delivery service in Bangladesh.",
+        "brand_logo": "https://i.ibb.co.com/FgDrB8R/foodpanda.png",
+        "coupons": [
+          {
+            "coupon_code": "FOOD20",
+            "description": "20% off on your first order.",
+            "expiry_date": "2024-11-30",
+            "condition": "Minimum spend of Tk 500.",
+            "coupon_type": "Discount"
+          },
+          {
+            "coupon_code": "FREEDEL",
+            "description": "Enjoy free delivery on weekends.",
+            "expiry_date": "2024-12-25",
+            "condition": "No minimum order required.",
+            "coupon_type": "Shipping"
+          },
+          {
+            "coupon_code": "FOOD10",
+            "description": "10% off on orders above Tk 1,000.",
+            "expiry_date": "2024-12-31",
+            "condition": "Applicable to all users.",
+            "coupon_type": "Discount"
+          },
+          {
+            "coupon_code": "FOOD50",
+            "description": "Flat Tk 50 off on your next order.",
+            "expiry_date": "2024-12-10",
+            "condition": "Valid on orders above Tk 400.",
+            "coupon_type": "Discount"
+          }
+        ],
+        "shop_Link": "https://www.foodpanda.com.bd/",
+        "category": "Food Delivery",
+        "isSaleOn": true
+      },
+      {
+        "_id": "10",
+        "brand_name": "Pickaboo",
+        "rating": 4.3,
+        "description": "Pickaboo is an e-commerce platform specializing in electronics and gadgets.",
+        "brand_logo": "https://i.ibb.co.com/PNNHVXL/pickaboo.webp",
+        "coupons": [
+          {
+            "coupon_code": "PICK5",
+            "description": "5% off on electronics.",
+            "expiry_date": "2024-12-10",
+            "condition": "Minimum spend of Tk 2,000.",
+            "coupon_type": "Discount"
+          },
+          {
+            "coupon_code": "PICK10",
+            "description": "Flat 10% off on selected gadgets.",
+            "expiry_date": "2024-12-31",
+            "condition": "Valid for online orders only.",
+            "coupon_type": "Discount"
+          },
+          {
+            "coupon_code": "PICKDELIVERY",
+            "description": "Free delivery on all orders above Tk 3,000.",
+            "expiry_date": "2024-12-20",
+            "condition": "Available for online orders only.",
+            "coupon_type": "Shipping"
+          },
+          {
+            "coupon_code": "PICK5OFF",
+            "description": "Tk 5,000 off on laptops.",
+            "expiry_date": "2024-12-15",
+            "condition": "Valid on selected laptop models.",
+            "coupon_type": "Discount"
+          }
+        ],
+        "shop_Link": "https://www.pickaboo.com/",
+        "category": "E-commerce",
+        "isSaleOn": true
+      },
+      {
+        "_id": "11",
+        "brand_name": "Chaldal",
+        "rating": 4.6,
+        "description": "Chaldal offers convenient online grocery shopping with fast delivery.",
+        "brand_logo": "https://i.ibb.co.com/JQmhhNW/chaldal.jpg",
+        "coupons": [
+          {
+            "coupon_code": "CHALCASHBACK",
+            "description": "5% cashback on all grocery orders.",
+            "expiry_date": "2024-12-25",
+            "condition": "Minimum order of Tk 1,000 required.",
+            "coupon_type": "Cashback"
+          }
+        ],
+        "shop_Link": "https://chaldal.com/",
+        "category": "E-commerce",
+        "isSaleOn": false
+      },
+      {
+        "_id": "12",
+        "brand_name": "AjkerDeal",
+        "rating": 4.1,
+        "description": "AjkerDeal is a trusted e-commerce platform with a wide range of products.",
+        "brand_logo": "https://i.ibb.co.com/7N9xzVj/ajkerdeal.png",
+        "coupons": [
+          {
+            "coupon_code": "AJKER20",
+            "description": "Flat 20% discount on selected items.",
+            "expiry_date": "2024-11-30",
+            "condition": "No minimum purchase required.",
+            "coupon_type": "Sale"
+          },
+          {
+            "coupon_code": "AJKERFREE",
+            "description": "Free delivery on orders above Tk 1,500.",
+            "expiry_date": "2024-12-15",
+            "condition": "Valid for online orders only.",
+            "coupon_type": "Shipping"
+          },
+          {
+            "coupon_code": "AJKER5",
+            "description": "5% off on all purchases.",
+            "expiry_date": "2024-12-31",
+            "condition": "No minimum order required.",
+            "coupon_type": "Discount"
+          },
+          {
+            "coupon_code": "AJKERSELECT",
+            "description": "15% off on selected electronics.",
+            "expiry_date": "2024-12-25",
+            "condition": "Valid on selected electronics only.",
+            "coupon_type": "Discount"
+          }
+        ],
+        "shop_Link": "https://www.ajkerdeal.com/",
+        "category": "E-commerce",
+        "isSaleOn": true
+      }
+    ]
+  }
+}
